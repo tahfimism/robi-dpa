@@ -21,9 +21,11 @@ This knowledge vault is designed to prepare the team to understand every slide i
 | **05** | [[05_Sovereign_AI_Data_Lineage_and_Cyber_Defense]] | Apache Atlas Lineage, Sovereign AI Gateway (<30ms RAM), Six AI Systems, Active 3D e-KYC, TreeSHAP | Slides 07, 08 | Slides 29–32 |
 | **06** | [[06_Enterprise_Governance_and_Board_Accountability]] | 3 Lines of Defense, Management Q1–Q8 Resolution Grid, Anti-Shadow AI, Statutory Truth Table, Never List | Slides 09, 10 | Slides 33, 34, 35, 37 |
 | **07** | [[07_Financial_Engine_ROI_and_Execution_Roadmap]] | Financial Model (+BDT 35.5 Cr Net EBITDA, ~22-mo payback), 4-Phase Canary Roadmap, Stage-Gates | Slide 11 | Slide 36 |
+| **Finance Bible** | [[slide_11_financial_derivations_and_sources]] | Master Sourcing, Verified vs Assumed Register, Formulas & CFO Defense Cheat-Sheet | Slide 11 | Financial Backup |
 | **08A** | [[08_Master_Definitions_Terminology_and_Concepts]] | Comprehensive Encyclopedia of Technical, Legal, Telecommunication, and Governance Concepts | Reference | Reference |
 | **08B** | [[08_Master_Glossary_and_Acronym_Index]] | Quick-Lookup A–Z Glossary of Acronyms, Full Forms, and Operational Definitions | Reference | Reference |
-| **Survey** | [[survey analysis]] | Primary Field Survey Analysis ($N = 110$, 3 sheets pooled), Strategic Tailwinds vs Headwinds & Q&A | Slide 02 | Slides 14–20 |
+| **Slide Glossary** | [[slide_by_slide_terminology_glossary]] | Master Slide-by-Slide Decoder: Every Technical, Financial, Legal & Telecom Term across all 45 Slides | Slides 01–12 | Slides 13–45 |
+| **Survey** | [[survey analysis]] | Primary Field Survey Analysis ($N = 121$, 3 sheets pooled), Strategic Tailwinds vs Headwinds & Q&A | Slide 02 | Slides 14–20 |
 | **Printable Mega Note** | [[Project_Red_Sky_Printable_Mega_Note]] | Unified Print-Ready Study Guide (Notes 00 to 06 Combined, Zero Embeds, Plain-English) | Slides 01–10, 12 | Backup Deck |
 
 ---

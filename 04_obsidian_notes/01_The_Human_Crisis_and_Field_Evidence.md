@@ -2,7 +2,7 @@
 
 > **Parent Topic:** [[00_Master_Navigation_and_Executive_Overview]]  
 > **Master Terminology Guide:** [[08_Master_Definitions_Terminology_and_Concepts]]  
-> **Empirical Survey Data ($N = 110$):** [[survey analysis]]  
+> **Empirical Survey Data ($N = 121$):** [[survey analysis]]  
 > **Slides Covered:**  
 > • **Main Deck:** Slide 02 (Gaps & Case Study Overview)  
 > • **Backup Deck:** Slide 14 (Field Evidence Divider), Slide 15 (Fatema Case Study), Slide 16 (Kashem Bhai & Tanvir), Slide 17 (Field Research & Paper Khatas), Slide 18 (Fahim & Child Profiling), Slide 19 (Macro Precedents), Slide 20 (The Network Moat: Why Apps Fail)

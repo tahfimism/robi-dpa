@@ -30,3 +30,8 @@
 ## 7. Compact & Non-Bloated Notes Discipline
 - **Zero Bloat Anywhere:** Never write dense, repetitive, multi-paragraph, or bloated notes in project documentation, markdown files, or Obsidian notes.
 - **Telegraphic & High-Density:** Keep all explanations, problem-solution breakdowns, and architectural notes compact, crisp, telegraphic, and strictly value-additive. Cut all filler and rhetorical fluff.
+
+
+## 8. Table Formatting Standard (Always Proper Markdown Tables)
+- **Zero ASCII/Plaintext Box Tables:** Never format literal tables using ASCII box-drawing characters (e.g., +---, |, ┌───┐, ├────┤).
+- **Always Proper Markdown Tables:** Always format tables as standard GitHub-flavored Markdown tables (| Col 1 | Col 2 | with | :--- | :--- | header dividers) so that Obsidian and markdown viewers render them natively, crisply, and responsively.
